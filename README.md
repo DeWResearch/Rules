@@ -1,2 +1,1 @@
-# Reputation-Evaluation
-How to evalute people's reputation automatically?
+This repository defines the governance rules and procedures of the DeWResearch DAO.
